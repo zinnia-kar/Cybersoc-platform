@@ -1,4 +1,3 @@
-````md
 # CyberSOC Platform 🛡️
 
 Interactive Cybersecurity Training & Threat Simulation Platform built using modern web technologies.
@@ -150,7 +149,7 @@ This project was built to:
 
 # 👩‍💻 Author
 
-Built by Zinnia
+Built by Zinnia Kar
 
 ---
 
@@ -158,5 +157,3 @@ Built by Zinnia
 
 If you like this project, consider giving it a star on GitHub.
 
-```
-```
